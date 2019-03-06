@@ -15,6 +15,10 @@ Conformity in the code is important to help the user develop an intuition for ho
 
 Write your code as if you are writing it for someone else. Which, in fact, you are.
 
+## Code Portability
+
+The more teams, projects and subsidiaries that shares a common code standard, the easier it will be for them to share code and components in between them. 
+
 # Context is Important
 
 The rules and guidelines here derive from the tools we use, the architectures we work on, and the kind of problems we have to solve. There are situations where doing things the standard way may not be easy. If a rule or guideline makes it substantially more difficult to solve something, use your best discretion about how to resolve it, and let it be known so that this standard can reflect the experience.
