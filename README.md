@@ -46,10 +46,14 @@ We are currently evalutaing if we can re-use standards maintained by others. Our
 Since we've not found any good guide for creating Custom Elements, we're working on a standard of our own.
 
 # Sharable Linters
+
+We are currently evaluating both the linter and the config from Airbnb:
 [Airbnb eslint with config files](https://github.com/airbnb/javascript/tree/master/packages)
 
 # Contribute
-[Airbnb eslint with config files](https://github.com/airbnb/javascript/tree/master/packages)
+
+We are more than happy to onboard anyone who cares for Coding Standards to join our work. Currently our Slack channel is the place to go:
+[https://corporate-ui.slack.com/app_redirect?channel=coding-standards](https://corporate-ui.slack.com/app_redirect?channel=coding-standards)
 
 
 
