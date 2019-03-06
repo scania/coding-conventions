@@ -7,7 +7,7 @@ Coding practices are a source of a lot of arguments among programmers. Coding st
 - [Why we need Coding Standards](#why-we-need-coding-standards)
 - [Context is important](#context-is-important)
 - [Stylistic Standards](#stylistic-standards)
-- [HTML/CSS Style Guide](#html/css-style-guide)
+- [CSS Style Guide](#css-style-guide)
 - [JavaScript Style Guide](#javascript-style-guide)
 - [Custom Elements Style Guide](#custom-elements-style-guide)
 - [Sharable Linters](#sharable-linters)
@@ -30,7 +30,12 @@ The rules and guidelines here derive from the tools we use, the architectures we
 
 Issues of style are in essence a matter of taste, and as such, are both arbitrary and subject to fruitless debate. That said a consistent set of aesthetic conventions helps readers – especially unfamiliar readers – read and understand code.  So some style elements are included, and are not subject for debate.  In general these reflect current practice.
 
-# HTML/CSS Style Guide
+# CSS Style Guide
+
+We are currently evalutaing if we can re-use standards maintained by others. Our latest survey shows that both Airbnb and Google coding standards are poplular. Since Google seem to be somewhat limitied when it comes to React and Vue projects, we are currently looking into if we can use the Airbnb CSS Styleguide.
+
+[Airbnb CSS / Sass Styleguide](#https://github.com/airbnb/css)
+
 
 # JavaScript Style Guide
 
