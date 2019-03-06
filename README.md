@@ -32,7 +32,9 @@ Issues of style are in essence a matter of taste, and as such, are both arbitrar
 
 # JavaScript Style Guide
 
-We are currently evalutaing if we can re-use standards maintained by others. Our latest survey shows that both Airbnb and Google coding standards are poplular. Since Google seem to be somewhat limitied when it comes to React and Vue projects, we are currently looking into if we can use the Airbnb CSS Styleguide.
+We are currently evalutaing if we can re-use standards maintained by others. Our latest survey shows that both Airbnb and Google coding standards are poplular. Since Google seem to be somewhat limitied when it comes to React and Vue projects, we are currently looking into if we can use the Airbnb JavaScript Style Guide.
+
+[Here's the Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 # CSS Style Guide
 
