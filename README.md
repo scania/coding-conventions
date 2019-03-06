@@ -52,8 +52,5 @@ We are currently evaluating both the linter and the config from Airbnb:
 
 # Contribute
 
-We are more than happy to onboard anyone who cares for Coding Standards to join our work. Currently our Slack channel is the place to go:
+We are more than happy to onboard anyone who cares for coding standards to join our work. Currently our Slack channel is the place to go:
 [https://corporate-ui.slack.com/app_redirect?channel=coding-standards](https://corporate-ui.slack.com/app_redirect?channel=coding-standards)
-
-
-
