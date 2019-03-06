@@ -1,4 +1,4 @@
-# Corporate Coding Conventions
+# Corporate Coding Conventions (WORKING COPY)
 
 Coding practices are a source of a lot of arguments among programmers. Coding standards, to some degree, help us to put certain questions to bed and resolve stylistic debates. No coding standard makes everyone happy and even their existence is sure to make some unhappy. What follows are the standards we put together within the developer community, which have become the general coding standard for all programming teams on new code development. We’ve tried to balance the need for creating a common, recognizable and readable code base with not unduly burdening the programmer with minor code formatting concerns.
 
