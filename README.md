@@ -20,7 +20,7 @@ Write your code as if you are writing it for someone else. Which, in fact, you a
 
 ## Code Portability
 
-The more teams, projects and subsidiaries that shares a common code standard, the easier it will be for them to share code and components in between them. The need for future code sharing and re-use is very hard for a team to predict, but following a standard from day 1 will eliminate a lot of unnecessary risks. 
+The more teams, projects and subsidiaries that shares a common code standard, the easier it will be for them to share code and components in between them. The need for future code sharing and re-use is very hard for a team to predict, so following a standard from day 1 will eliminate a lot of unnecessary risk factors. 
 
 # Context is Important
 
