@@ -7,7 +7,10 @@ Coding practices are a source of a lot of arguments among programmers. Coding st
 - [Why we need Coding Standards](#why-we-need-coding-standards)
 - [Context is important](#context-is-important)
 - [Stylistic Standards](#stylistic-standards)
+- [HTML/CSS Style Guide](#html/css-style-guide)
 - [JavaScript Style Guide](#javascript-style-guide)
+- [Custom Elements Style Guide](#custom-elements-style-guide)
+- [Sharable Linters](#sharable-linters)
  
 # Why we need Coding Standards
 
@@ -17,7 +20,7 @@ Write your code as if you are writing it for someone else. Which, in fact, you a
 
 ## Code Portability
 
-The more teams, projects and subsidiaries that shares a common code standard, the easier it will be for them to share code and components in between them. 
+The more teams, projects and subsidiaries that shares a common code standard, the easier it will be for them to share code and components in between them. The need for future code sharing and re-use is very hard for a team to predict, but following a standard from day 1 will eliminate a lot of unnecessary risks. 
 
 # Context is Important
 
@@ -26,4 +29,12 @@ The rules and guidelines here derive from the tools we use, the architectures we
 # Stylistic Standards
 
 Issues of style are in essence a matter of taste, and as such, are both arbitrary and subject to fruitless debate. That said a consistent set of aesthetic conventions helps readers – especially unfamiliar readers – read and understand code.  So some style elements are included, and are not subject for debate.  In general these reflect current practice.
+
+# HTML/CSS Style Guide
+
+# JavaScript Style Guide
+
+# Custom Elements Style Guide
+
+# Sharable Linters
 
