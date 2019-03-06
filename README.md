@@ -48,7 +48,7 @@ Since we've not found any good guide for creating Custom Elements, we're working
 # Sharable Linters
 
 We are currently evaluating both the linter and the config from Airbnb:
-[Airbnb eslint with config files](https://github.com/airbnb/javascript/tree/master/packages)
+[eslint with config files](https://github.com/airbnb/javascript/tree/master/packages)
 
 # Contribute
 
