@@ -11,6 +11,7 @@ Coding practices are a source of a lot of arguments among programmers. Coding st
 - [CSS Style Guide](#css-style-guide)
 - [Custom Elements Style Guide](#custom-elements-style-guide)
 - [Sharable Linters](#sharable-linters)
+- [Contribute](#contribute)
  
 # Why we need Coding Standards
 
@@ -32,9 +33,9 @@ Issues of style are in essence a matter of taste, and as such, are both arbitrar
 
 # JavaScript Style Guide
 
-We are currently evalutaing if we can re-use standards maintained by others. Our latest survey shows that both Airbnb and Google coding standards are poplular. Since Google seem to be somewhat limitied when it comes to React and Vue projects, we are currently looking into if we can use the Airbnb JavaScript Style Guide.
+We are currently evalutaing if we can re-use standards maintained by others. Our [latest survey](https://scania.github.io/corporate-ui-docs/surveys/js-coding-standards/standards-results.html) shows that both Airbnb and Google coding standards are poplular. Since Google seem to be somewhat limitied when it comes to React and Vue projects, we are currently looking into if we can use the Airbnb JavaScript Style Guide.
 
-[Here's the Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+[Have a look at the Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 # CSS Style Guide
 
@@ -42,5 +43,13 @@ We are currently evalutaing if we can re-use standards maintained by others. Our
 
 # Custom Elements Style Guide
 
+Since we've not found any good guide for creating Custom Elements, we're working on a standard of our own.
+
 # Sharable Linters
+[Airbnb eslint with config files](https://github.com/airbnb/javascript/tree/master/packages)
+
+# Contribute
+[Airbnb eslint with config files](https://github.com/airbnb/javascript/tree/master/packages)
+
+
 
