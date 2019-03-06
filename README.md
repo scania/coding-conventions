@@ -36,7 +36,7 @@ We are currently evalutaing if we can re-use standards maintained by others. Our
 
 # CSS Style Guide
 
-[Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+[Have a look at the working copy of our CSS / Sass Styleguide](css-style-guide.md)
 
 # Custom Elements Style Guide
 
