@@ -35,7 +35,7 @@ Issues of style are in essence a matter of taste, and as such, are both arbitrar
 
 We are currently evalutaing if we can re-use standards maintained by others. Our [latest survey](https://scania.github.io/corporate-ui-docs/surveys/js-coding-standards/standards-results.html) shows that both Airbnb and Google coding standards are poplular. Since Google seem to be somewhat limitied when it comes to React and Vue projects, we are currently looking into if we can use the Airbnb JavaScript Style Guide.
 
-[Have a look at the Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+[JavaScript Style Guide](https://github.com/scania/javascript)
 
 # CSS Style Guide
 
