@@ -31,6 +31,10 @@ The rules and guidelines here derive from the tools we use, the architectures we
 
 Issues of style are in essence a matter of taste, and as such, are both arbitrary and subject to fruitless debate. That said a consistent set of aesthetic conventions helps readers – especially unfamiliar readers – read and understand code.  So some style elements are included, and are not subject for debate.  In general these reflect current practice.
 
+## Can't stand the standard?
+
+For developers who strongly object to the stylistic standard, we recomend using a add on like for example
+
 # JavaScript Style Guide
 
 We are currently evalutaing if we can re-use standards maintained by others. Our [latest survey](https://scania.github.io/corporate-ui-docs/surveys/js-coding-standards/standards-results.html) shows that both Airbnb and Google coding standards are poplular. Since Google seem to be somewhat limitied when it comes to React and Vue projects, we are currently looking into if we can use the Airbnb JavaScript Style Guide.
@@ -44,6 +48,7 @@ We are currently evalutaing if we can re-use standards maintained by others. Our
 # Custom Elements Style Guide (work in progress)
 
 Since we've not found any good guide for creating Custom Elements, we're working on a standard of our own.
+
 [Sneak peak](custom-elements-style-guide.md)
 
 # Sharable Linters
