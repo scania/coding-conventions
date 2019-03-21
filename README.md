@@ -35,15 +35,16 @@ Issues of style are in essence a matter of taste, and as such, are both arbitrar
 
 We are currently evalutaing if we can re-use standards maintained by others. Our [latest survey](https://scania.github.io/corporate-ui-docs/surveys/js-coding-standards/standards-results.html) shows that both Airbnb and Google coding standards are poplular. Since Google seem to be somewhat limitied when it comes to React and Vue projects, we are currently looking into if we can use the Airbnb JavaScript Style Guide.
 
-[JavaScript Style Guide](https://github.com/scania/javascript)
+[To the JavaScript Style Guide (AirBnb Fork)](https://github.com/scania/javascript)
 
 # CSS Style Guide
 
-[Have a look at the working copy of our CSS / Sass Styleguide](css-style-guide.md)
+[To the CSS / Sass  Style Guide (AirBnb, Adjusted)](css-style-guide.md)
 
-# Custom Elements Style Guide
+# Custom Elements Style Guide (work in progress)
 
 Since we've not found any good guide for creating Custom Elements, we're working on a standard of our own.
+[Sneak peak](custom-elements-style-guide.md)
 
 # Sharable Linters
 
