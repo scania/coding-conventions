@@ -33,7 +33,7 @@ Issues of style are in essence a matter of taste, and as such, are both arbitrar
 
 ## Can't stand the standard?
 
-For developers who strongly object to the stylistic standard, we recomend using a add on like for example
+For developers who strongly object to the stylistic standard, we recomend using an add-on like for example Prettier to change the style of indentation etc. The most important thing is that once the code are commited to the repository the common standard should be applied.
 
 # JavaScript Style Guide
 
