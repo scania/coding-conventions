@@ -10,9 +10,17 @@ Build your custom elements so they are as close to the HTML standard as possbibl
 
 In order to make custom elements as portable as possible, we do like to make them as generall as we can. A standard HTML header is namned `<header>` and when we decided to make a custom header, it's simply namned `<c-header>`. In the same manor, when we like to extend the functionality of the `<input>` element, we'd call that the `<c-input>` elements.
 
+## Brand or project based prefixes
+
+It could be tempting to use a custom element prefix that ties the element to your project, application or company. One might not know it at the moment of development, but chances are that another group within the company, or within a sibling company, can reuse mush of your work. Having used a common prefix will then save a lot of work and also simplify future, shared, maintainance.
+
 ## Variations and Attributes
 
-Naturally, we do need some variations of a custom element. In standard HTML, that issue is solved by using in various ways, sometimes a few different elements are created as has been done with `<ol>` and `<ul>` elements. This could technically has been solved with adding a attribute to a `<list>` element. That would then have looked something linke `<list type="ordered">` and `<list type="unordered">` respectivly. In other instances, standard HTML do in fact use attributes to give you control over the appearance. The Input element is a great example of that as it can take a lot of different shapes; `<input type="text">`,  `<input type="checkbox">`, `<input type="radio">`, `<input type="password">` just to mention a few.
+Naturally, we do need some variations of a custom element. In standard HTML, that issue is solved  in various ways, sometimes a few different elements has been created as done with the `<ol>` and `<ul>` elements. This could technically has been solved with adding a attribute to a `<list>` element. That would then have been looking something like `<list type="ordered">` and `<list type="unordered">` respectivly. 
+
+In other instances, standard HTML do in fact use attributes to give you control over the appearance. The Input element is a example of that as it can take a lot of different shapes; `<input type="text">`,  `<input type="checkbox">`, `<input type="radio">`, `<input type="password">` just to mention a few.
+
+For a custom element we have the same options and we can use attributes for theming:  `<c-theme name="scania">` or `<c-theme name="volkswagen">` or `<c-theme name="what-ever">`. Some times in might be a good idea to break down complexity and make a few stand alone components like for example a `<c-header>` and a `<c->`
 
 
 
