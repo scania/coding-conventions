@@ -8,7 +8,7 @@ Build your custom elements so they are as close to the HTML standard as possbibl
 
 ## The c- prefix
 
-In order to make custom elements as portable as possible, we do like to make them as generall as we can. A standard HTML header is namned `<header>` and when we decided to make a custom header, it's simply namned `<c-header>`. In the same manor, when we like to extend the functionality of the `<input>` element, we'd call that the `<c-input>` elements.
+In order to make custom elements as portable as possible, we do like to make them as general as we can. A standard HTML header is namned `<header>` and when we decided to make a custom header, it's simply namned `<c-header>`. In the same manor, when we like to extend the functionality of the `<input>` element, we'd call that the `<c-input>` elements.
 
 ## Brand or project based prefixes
 
@@ -20,7 +20,13 @@ Naturally, we do need some variations of a custom element. In standard HTML, tha
 
 In other instances, standard HTML do in fact use attributes to give you control over the appearance. The Input element is a example of that as it can take a lot of different shapes; `<input type="text">`,  `<input type="checkbox">`, `<input type="radio">`, `<input type="password">` just to mention a few.
 
-For a custom element we have the same options and we can use attributes for theming:  `<c-theme name="scania">` or `<c-theme name="volkswagen">` or `<c-theme name="what-ever">`. Some times in might be a good idea to break down complexity and make a few stand alone components like the varaity of navigation needs; `<c-main-navigation>`, `<c-side-navigation>`, `<c-table-of-contents>` or even a  `<c-parallax-navigation>`. Probably, they would all use any common code from a more generall `<c-navigation>`.
+For a custom element we have the same options and we can use attributes for theming:  `<c-theme name="scania">` or `<c-theme name="volkswagen">` or `<c-theme name="what-ever">`. Some times in might be a good idea to break down complex components and make a few stand alone elements if there is a variety of needs; `<c-main-navigation>`, `<c-side-navigation>`, `<c-table-of-contents>` or even a  `<c-parallax-navigation>` are all examples of different kind of navigations. Hosted in one huge element might not be a wise idea, but probably they would all use common code from a more general `<c-navigation>` element.
+
+## Conclusion
+
+While standards within other areas are available for re-use, there are no standards for custom elements. In the meantime, these elements can work as a great way to package and share code between teams and entities. Therefore we recomend you to spend some extra time re-searching the naming of the custom element itself, as well of what attributes are available from the HTML standard and what other attributes are used in other components.
+
+
 
 
 
