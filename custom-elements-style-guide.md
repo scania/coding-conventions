@@ -20,7 +20,7 @@ Naturally, we do need some variations of a custom element. In standard HTML, tha
 
 In other instances, standard HTML do in fact use attributes to give you control over the appearance. The Input element is a example of that as it can take a lot of different shapes; `<input type="text">`,  `<input type="checkbox">`, `<input type="radio">`, `<input type="password">` just to mention a few.
 
-For a custom element we have the same options and we can use attributes for theming:  `<c-theme name="scania">` or `<c-theme name="volkswagen">` or `<c-theme name="what-ever">`. Some times in might be a good idea to break down complexity and make a few stand alone components like for example a `<c-header>` and a `<c->`
+For a custom element we have the same options and we can use attributes for theming:  `<c-theme name="scania">` or `<c-theme name="volkswagen">` or `<c-theme name="what-ever">`. Some times in might be a good idea to break down complexity and make a few stand alone components like the varaity of navigation needs; `<c-main-navigation>`, `<c-side-navigation>`, `<c-table-of-contents>` or even a  `<c-parallax-navigation>`. Probably, they would all use any common code from a more generall `<c-navigation>`.
 
 
 
