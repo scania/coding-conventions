@@ -41,15 +41,15 @@ We are currently evalutaing if we can re-use standards maintained by others. Our
 
 [To the JavaScript Style Guide (AirBnb Fork)](https://github.com/scania/javascript)
 
-# CSS Style Guide
-
-[To the CSS / Sass  Style Guide (AirBnb, Adjusted)](css-style-guide.md)
-
-# Custom Elements Style Guide (work in progress)
+# Custom Elements Style Guide
 
 Since we've not found any good guide for creating Custom Elements, we're working on a standard of our own.
 
-[Sneak peak](custom-elements-style-guide.md)
+[Naming standard for Custom Elements](custom-elements-style-guide.md)
+
+# CSS Style Guide
+
+[To the CSS / Sass  Style Guide (AirBnb, Adjusted)](css-style-guide.md)
 
 # Sharable Linters
 
