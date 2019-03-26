@@ -8,8 +8,8 @@ Coding practices are a source of a lot of arguments among programmers. Coding st
 - [Context is important](#context-is-important)
 - [Stylistic Standards](#stylistic-standards)
 - [JavaScript Style Guide](#javascript-style-guide)
-- [CSS Style Guide](#css-style-guide)
 - [Custom Elements Style Guide](#custom-elements-style-guide)
+- [CSS Style Guide](#css-style-guide)
 - [Sharable Linters](#sharable-linters)
 - [Contribute](#contribute)
  
