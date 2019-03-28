@@ -4,7 +4,7 @@ Coding practices are a source of a lot of arguments among programmers. Coding st
 
 ## Table Of Contents
 
-- [Why we need Coding Standards](#why-we-need-coding-standards)
+- [Why we need Coding Conventions](#why-we-need-coding-conventions)
 - [Context is important](#context-is-important)
 - [Stylistic Standards](#stylistic-standards)
 - [JavaScript Style Guide](#javascript-style-guide)
@@ -13,7 +13,7 @@ Coding practices are a source of a lot of arguments among programmers. Coding st
 - [Sharable Linters](#sharable-linters)
 - [Contribute](#contribute)
  
-# Why we need Coding Standards
+# Why we need Coding Conventions
 
 Conformity in the code is important to help the user develop an intuition for how to use it. Although every programmer is encouraged to bring their own insight and wisdom to the project, we must also ensure that there is enough consistency so that we can read, use, debug, and maintain each others code. Also, we must consider our direct customers, the users of the engine, i.e. the gameplay and tools programmers, and present them with a consistent and easy to understand interface.
 
